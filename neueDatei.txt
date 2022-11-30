@@ -1,6 +1,0 @@
-Hallo Welt
-
-Das ein eine Änderung die ich in Master gemacht habe.
-
-Das habe ich in meine Featurebranch geschrieben
-
